@@ -1,0 +1,6 @@
+{
+  "name": "The Fitness Garage - Gym ERP",
+  "description": "Professional gym management software for The Fitness Garage, Rohtak. Member management, fee tracking, attendance, automation, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
